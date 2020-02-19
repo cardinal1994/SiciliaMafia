@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Sicilia Mafia</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">Nickname</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="bar_register">Register</string>
+    <string name="you_cant_register">You can`t register with this email or password</string>
+    <string name="all_fields_are_required">All fields are required</string>
+    <string name="password_must_be">Password must be at least 6 characters</string>
+    <string name="login_tv">Login</string>
+    <string name="authentication_failed">Authentication failed!</string>
+    <string name="login">Login</string>
+    <string name="sicilia_kharkiv_mafia_club">SICILIA KHARKIV MAFIA CLUB</string>
+    <string name="welcomes_you">WELCOMES YOU!</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+
+    <string name="players">Players</string>
+    <string name="fun_game">Fun game</string>
+    <string name="city">City</string>
+    <string name="balance">Balance:</string>
+    <string name="bebt">Debt:</string>
+    <string name="phonenumber">Phone number:</string>
+    <string name="set_host">Set host</string>
+    <string name="set_admin">Set admin</string>
+    <string name="set_president">Set president</string>
+    <string name="add_to_balance">Add</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_correct_amount">Enter correct amount</string>
+    <string name="set_to_zero">Set to zero</string>
+    <string name="no_internet_connection">Please check your internet connection.</string>
+    <string name="voting">Voting: </string>
+    <string name="upload_in_preogress">Upload in preogress</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="failed">Failed!</string>
+    <string name="copy_card_number">Copy card number</string>
+    <string name="card_number">Card number is copied</string>
+    <string name="uploading">Uploading</string>
+    <string name="both_fields">Both fields must be filled</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="clear">Clear</string>
+</resources>

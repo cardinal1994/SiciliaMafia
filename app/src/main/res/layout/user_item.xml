@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:paddingBottom="7dp"
+    android:paddingTop="7dp"
+    android:paddingStart="10dp"
+    android:paddingEnd="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/ic_launcher"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_toEndOf="@id/profile_image"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="10dp"
+        tools:ignore="RelativeOverlap">
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:id="@+id/balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/DarkRed"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_set_to_zero"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_toStartOf="@id/btn_minus_15"
+        android:layout_marginEnd="15dp"
+        android:text="X"
+        android:textColor="@android:color/white"
+        android:background="@drawable/shape_host_button_blue"/>
+
+    <Button
+        android:id="@+id/btn_minus_15"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="15dp"
+        android:text="-15"
+        android:textColor="@android:color/white"
+        android:background="@drawable/shape_host_button_red"/>
+
+
+
+</RelativeLayout>

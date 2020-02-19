@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sicilia Mafia</string>
+    <string name="create_a_new_account">Создйте новый аккаунт</string>
+    <string name="username">Никнейм</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="bar_register">Регистрация</string>
+    <string name="you_cant_register">Вы не можете зарегистрироваться с этим Email или паролем</string>
+    <string name="all_fields_are_required">Все поля обязательны для заполнения</string>
+    <string name="password_must_be">Пароль должен быть как минимум из 6 символов.</string>
+    <string name="login_tv">Логин</string>
+    <string name="authentication_failed">Ошибка аутентификации!</string>
+    <string name="login">Вход</string>
+    <string name="sicilia_kharkiv_mafia_club">SICILIA KHARKIV MAFIA CLUB</string>
+    <string name="welcomes_you">ПРИВЕТСТВУЕТ ТЕБЯ!</string>
+    <string name="logout">Выйти</string>
+    <string name="search">Поиск</string>
+    <string name="players">Игроки</string>
+    <string name="fun_game">Фановая игра</string>
+    <string name="city">Город</string>
+    <string name="balance">Баланс:</string>
+    <string name="bebt">Долг:</string>
+    <string name="phonenumber">Номер телефона:</string>
+    <string name="set_host">Сделать ведущим</string>
+    <string name="set_admin">Сделать администратором</string>
+    <string name="set_president">Сделать президентом</string>
+    <string name="add_to_balance">Добавить</string>
+    <string name="enter_amount">Сумма</string>
+    <string name="enter_correct_amount">Введите правильную сумму</string>
+    <string name="set_to_zero">Обнулить</string>
+    <string name="no_internet_connection">Пожалуйста, проверьте соединение с интернетом</string>
+    <string name="voting">Голосование: </string>
+    <string name="upload_in_preogress">Идет загрузка</string>
+    <string name="no_image_selected">Не выбрано ни одного изображения</string>
+    <string name="failed">Ошибка!</string>
+    <string name="copy_card_number">Копировать номер карты</string>
+    <string name="card_number">Номер карты скопирован</string>
+    <string name="uploading">Загрузка</string>
+    <string name="both_fields">Оба поля должны быть заполнены</string>
+    <string name="withdraw">Снять</string>
+    <string name="clear">Очистить</string>
+</resources>
